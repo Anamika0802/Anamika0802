@@ -2,8 +2,9 @@
 
 [<img src="https://komarev.com/ghpvc/?username=anamika0802&label=Profile+Views&color=4287f5&style=flat" />](https://github.com/anamika0802)
 
-<!-- <img src="https://media.giphy.com/media/fAnzw6YK33jMwzp5wp/giphy.gif" align="right"  width="100%"/> -->
-<img src="https://media.giphy.com/media/xUA7bdpLxQhsSQdyog/giphy.gif" align="right"  width="40%"/>
+<!-- <img src="https://media.giphy.com/media/fAnzw6YK33jMwzp5wp/giphy.gif" align="right"  width="100%"/> 
+<img src="https://media.giphy.com/media/xUA7bdpLxQhsSQdyog/giphy.gif" align="right"  width="40%"/>-->
+<img src="https://media1.tenor.com/images/104f3a788e614cb7ecf468d09eff1d1a/tenor.gif?itemid=14794084" align="right"  width="40%"/>
 
 <!-- <img src="https://media.giphy.com/media/11ZSwQNWba4YF2/giphy.gif" align="right" width="200px" height="20%" />
  -->
@@ -26,12 +27,11 @@
 <img align="left" alt="C" width="30px" height="30px" src="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg"> 
 <img align="left" alt="C++" width="30px" height="30px" src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-original.svg">
 
-<img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"/>
+<!-- <img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"/>
 <img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png"/>
 
 <img align="left" alt="CSS3" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />
-
-<!-- <img align="left" alt="PyCharm" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/1/1d/PyCharm_Icon.svg" /> -->
+ <img align="left" alt="PyCharm" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/1/1d/PyCharm_Icon.svg" /> -->
 
 <img align="left" alt="Visual Studio Code" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
 
